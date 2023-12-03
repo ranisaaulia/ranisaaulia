@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranisaaulia&label=Profile%20views&color=0e75b6&style=flat" alt="ranisaaulia" /> </p>
 
-- 🌱 I’m currently learning **Java Script, VueJs, NextJs, NodeJs, Golang**
+- 🌱 I’m currently learning **Java Script, ReactJs, NodeJs, Golang**
 
-- 💬 Ask me about **Golang, PostgreSQL, MySQL**
+- 💬 Ask me about **Golang, Javascript, PostgreSQL, MySQL**
 
 - 📫 How to reach me **ranisaaulia31@gmail.com**
 
