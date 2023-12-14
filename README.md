@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranisa Aulia</h1>
-<h3 align="center">I'm a Bachelor of Science graduate At Sumatera Institute of Technology. Skilled in Golang, SQL and experienced in Backend Developer</h3>
+<h3 align="center">My expertise lies in backend development, and familiar with Golang, Javascript, NodeJS, MySQL, PostgreSQL, etc.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/7f/9a/a1/7f9aa1de77efa7d3daa30c01f6cef28f.jpg">
 
